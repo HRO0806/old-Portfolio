@@ -72,6 +72,10 @@
     background-image: url('../../images/coding.png');
 }
 
+#team{
+    background-image: url('../../images/team.jpg');
+}
+
 .project:hover{
     border: 5px solid #131518;
 }
