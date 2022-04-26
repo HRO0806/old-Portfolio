@@ -6,6 +6,7 @@ import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
+import Skills from './components/Skills';
 import Cube from './images/cubes.png';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
@@ -26,6 +27,7 @@ function App() {
           </div>
           <Switch>
             <Route exact path="/" component={About}/>
+            <Route exact path="/skills" component={Skills}/>
             <Route exact path="/portfolio" component={Portfolio}/>
             <Route exact path="/contact" component={Contact}/>
             <Route exact path="/resume" component={Resume}/>

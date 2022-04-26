@@ -12,6 +12,9 @@ function Nav() {
             <ul className={ListGroup} id='nav-list'>
                 <li className={ListGroupItem} id='animate-one'>
                     <Link className="nav-item" label="about" to="/">About Me</Link>
+                </li>
+                <li className={ListGroup} id='nav-list'>
+                    <Link className="nav-item" label="skills" to="/skills">Skills</Link>
                 </li>    
                 <li className={ListGroupItem} id='animate-two'>
                     <Link className="nav-item" label="portfolio" to="/portfolio">Portfolio</Link>
