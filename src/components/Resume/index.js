@@ -9,7 +9,7 @@ function Resume() {
         <div label="resume">
             <div className="resume-container">
                 <div className="resume">
-                    <div><a className="resume-link" href="https://docs.google.com/document/d/1oLkscXRPGKEV7s9wJZ8k5AbOdgmZEQt8hXBkctsTSRU/edit" 
+                    <div><a className="resume-link" href="https://docs.google.com/document/d/1MUZPVHr3JMrAvraxAKDad3ogmgdsYhFJXLmFA5aW6zE/edit?usp=sharing" 
                     target='_blank'>
                         <h2 className="resume-title">Click here to see my resume</h2>
                         <img src={google} className='image'></img>
