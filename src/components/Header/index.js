@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 function Nav() {
     return(
         <div className="header">
-            <h1>Henry's Internet Corner</h1>
+            <Link className="nav-item" label="about" to="/"><h1>Henry's Internet Corner</h1></Link>
             <ul className={ListGroup} id='nav-list'>
                 <li className={ListGroupItem} id='animate-one'>
                     <Link className="nav-item" label="about" to="/">About Me</Link>
