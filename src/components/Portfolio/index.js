@@ -9,16 +9,16 @@ function Portfolio() {
             </div>
             <ul className='portfolio-list'>
                 <li>
-                    <a className='portfolio-anchor' href="https://github.com/HRO0806/Weather-station" target="_blank">
-                            <div className='project' id='weather'>
+                    <a className='portfolio-anchor' href="https://github.com/HRO0806/Henry-Chat" target="_blank">
+                            <div className='project' id='social'>
                                 <div className='title-container'>
-                                    <h2 className='Project-title'>Weather Watchers</h2>
+                                    <h2 className='Project-title'>Henry Chat</h2>
                                 </div>
                         </div>
                      </a>
                 </li>
                 <li>
-                    <a className='portfolio-anchor' href="https://github.com/HRO0806/Password-generator" target="_blank">
+                    <a className='portfolio-anchor' href="https://hro0806.github.io/Password-generator/" target="_blank">
                         <div className='project' id='password'>
                             <div className='title-container'>
                                 <h2 className='Project-title'>Password Generator</h2>
@@ -45,7 +45,7 @@ function Portfolio() {
                      </a>
                 </li>
                 <li>
-                    <a className='portfolio-anchor' href="https://github.com/HRO0806/git-it-done" target="_blank">
+                    <a className='portfolio-anchor' href="https://hro0806.github.io/git-it-done/" target="_blank">
                         <div className='project' id='coding'>
                             <div className='title-container'>
                                 <h2 className='Project-title'>Git it done</h2>
@@ -54,7 +54,7 @@ function Portfolio() {
                      </a>
                 </li>
                 <li>
-                    <a className='portfolio-anchor' href="https://github.com/HRO0806/zookeepr" target="_blank">
+                    <a className='portfolio-anchor' href="https://thawing-atoll-05671.herokuapp.com/" target="_blank">
                         <div className='project' id='zoo'>
                             <div className='title-container'>
                                 <h2 className='Project-title'>zookeepr</h2>
@@ -63,7 +63,7 @@ function Portfolio() {
                      </a>
                 </li>
                 <li>
-                    <a className='portfolio-anchor' href="https://github.com/Feortegas/OnTrack" target="_blank">
+                    <a className='portfolio-anchor' href="https://group2-ontrack.herokuapp.com/" target="_blank">
                         <div className='project' id='team'>
                             <div className='title-container'>
                                 <h2 className='Project-title'>OnTrack</h2>
