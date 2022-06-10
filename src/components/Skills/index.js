@@ -9,7 +9,7 @@ function Skills(){
       </div>
       <div className={'container-container'}>
         <div className={'container-skills'}>
-        <p className={'skills'}>HTML, CSS, JavaScript, node.js, Bulma, Bootstrap, SASS, express.js, Handlebars, MySql, MongoSB, React</p>
+        <p className={'skills'}>HTML, CSS, JavaScript, node.js, Bulma, Bootstrap, SASS, express.js, Handlebars, MySql, MongoDB, React</p>
         </div>
       </div>
     </div>
