@@ -1,7 +1,6 @@
 # My portfolio
 
 ## Description 
-## There are four sections (About me, Portfolio, Contact Me, Resume)
 * About me: This section contains a photo of me as well as a bio to tell the user a little about me.
 * Portfolio: This section contains the work I am most proud of.
 * Contact me: This section contains my contact information.
