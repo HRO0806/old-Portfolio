@@ -14,10 +14,10 @@ function Nav() {
                     <Link className="nav-item" label="about" to="/">About Me</Link>
                 </li>
                 <li className={ListGroup} id='nav-list'>
-                    <Link className="nav-item" label="skills" to="/skills">Skills</Link>
+                    <Link className="nav-item" label="skills" to="/skills" id="skills">My skills</Link>
                 </li>    
                 <li className={ListGroupItem} id='animate-two'>
-                    <Link className="nav-item" label="portfolio" to="/portfolio">Portfolio</Link>
+                    <Link className="nav-item" label="portfolio" to="/portfolio" id="portfolio">Portfolio</Link>
                 </li>
                 <li className={ListGroupItem} id='animate-three'>
                     <Link className="nav-item" label="contact" to="/contact">Contact me</Link>
