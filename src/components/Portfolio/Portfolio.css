@@ -49,8 +49,8 @@
     border-radius: 10px;
 }
 
-#weather{
-    background-image: url('../../images/storm.jpg');
+#social{
+    background-image: url('../../images/social.jpg');
 }
 
 #password{
@@ -95,9 +95,22 @@
     color: #131518;
 }
 
+.project-info{
+    background-color: #cacaca;
+    padding: 5px;
+    border: solid 2px #000000;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-right: 15px;
+    width: 625px;
+}
+
 @media only screen and (max-width: 665px) {
     .project{
         width: 450px;
+    }
+    .project-info{
+        width: 455px;
     }
 }
 
@@ -105,11 +118,18 @@
     .project{
         width: 350px;
     }
+    .project-info{
+        width: 355px;
+    }
+
 }
 
 @media only screen and (max-width: 375px) {
     .project{
         margin-left: 23px;
+    }
+    .project-info{
+        width: 350px;
     }
 }
 
@@ -117,4 +137,8 @@
     .project{
         width: 300px;
     }
+    .project-info{
+        width: 300px;
+    }
 }
+
